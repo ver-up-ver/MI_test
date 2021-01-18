@@ -1,3 +1,4 @@
 # MI_test
 TgFromSMILES: SMILESから生成したMorganFingerprintをもとにTgを予測したやつ
+
 pKaFromSMILES: SMILESからRdkitのMOLオブジェクトを作って分子力学法で構造最適化？して、そこから2Dと3Dの記述子生成して学習しようとして失敗したやつ
